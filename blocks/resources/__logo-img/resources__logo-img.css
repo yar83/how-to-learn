@@ -1,0 +1,9 @@
+.resources__logo-img {
+  height: 100%;
+  width: auto;
+}
+
+.resources__logo-img > * {
+  height: 100%;
+  width: auto;
+}

@@ -1,0 +1,4 @@
+.link-opacity:hover {
+  transition: opacity .5s ease-in;
+  opacity: .6;
+}
